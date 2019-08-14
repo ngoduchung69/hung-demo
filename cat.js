@@ -1,4 +1,4 @@
-const cat = (x) => {
+const cat = (xy) => {
     console.log(123)
 }
 
